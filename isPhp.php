@@ -20,7 +20,7 @@ if ( ! function_exists('is_php'))
 
 ######
 #1.version_compare(PHP_VERSION,$version)  php版本比较函数【参数1当前php版本，用常量PHP_VERSION获得，参数2是需要比较的php版本号】当前版本
-更低是返回-1，相等返回0，当前版本高返回1
+#更低是返回-1，相等返回0，当前版本高返回1
 
 
 ?>
