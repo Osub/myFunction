@@ -1,6 +1,4 @@
-# myFunction
-我的函数库
-
+<?php
 #关闭php全局变量
 /**
  * Turn register globals off.
