@@ -1,7 +1,8 @@
 <?php
 
 /**
- * Set HTTP Status Header
+ * Set HTTP Status Header[设置http状态头部]
+ *
  *
  * @access	public
  * @param	int		the status code

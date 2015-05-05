@@ -1,7 +1,7 @@
 <?php
-/**删除空的和特殊的字符
+/**删除空的和特殊的字符阻止夹在空字符串和ASCII字符串
  * Remove Invisible Characters
- *阻止夹在空字符串和ASCII字符串
+ *
  * This prevents sandwiching null characters
  * between ascii characters, like Java\0script.
  *
