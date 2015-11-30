@@ -8,7 +8,7 @@ public function indexXY($i){
 		$num = ceil($i/25);
 		$index = '';
 		for($j=1;$j<$num;$j++){
-			$index .= chr($j-1+65);
+			$index = chr($j-1+65);
 		}
 		$index .= chr(($i-($num-1)*26)+65);
 	}else{
